@@ -10,7 +10,9 @@ int main() {
         "https://example.com",
         "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
         "https://www.learningcontainer.com/wp-content/uploads/2020/04/sample-text-file.txt",
-        "https://siteinexistente12345.com/teste.txt"
+        "https://siteinexistente12345.com/teste.txt",
+        "https://www.w3schools.com/python/python_variables_names.asp",
+        "https://www.w3schools.com/html/mov_bbb.mp4"
     };
     // Calcula o número de URLs a partir do tamanho do array
     int num_urls = sizeof(urls) / sizeof(urls[0]);
